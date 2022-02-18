@@ -1,3 +1,3 @@
 # javiervqz
 
-Webpage for my [personal website](https://javiervqz.org){:target="_blank"} 
+Web code for my <a href="https://javiervqz.org" target="_blank">personal website</a>
